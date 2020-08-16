@@ -6,9 +6,9 @@ import com.twilio.type.PhoneNumber;
 
 public class Test {
 	
-	public static final String ACCOUNT_SID = "AC2bd122dc825ef27745ed636f6ff35229";
+	public static final String ACCOUNT_SID = "";
 	
-	public static final String AUTH_TOKEN = "8af9878fb5bf4087e969fe9b81db4d18";
+	public static final String AUTH_TOKEN = "";
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
