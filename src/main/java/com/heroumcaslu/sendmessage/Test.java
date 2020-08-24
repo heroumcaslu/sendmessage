@@ -17,7 +17,7 @@ public class Test {
 		
 		Twilio.init(ACCOUNT_SID, AUTH_TOKEN);
 		
-		Message.creator(new PhoneNumber("+5581987708685"),
+		Message.creator(new PhoneNumber("+55819..."),
 				new PhoneNumber("+12402198052"), 
 				body)
 				.create();
